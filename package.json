@@ -1,5 +1,5 @@
 {
-  "name": "courage-browser",
+  "name": "ionic-browser",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
     "start": "node app.js",
     "postinstall": "bower install"
   },
-  "description": "Courage for browser.",
+  "description": "Template for deploying Ionic projects to the web.",
   "main": "server.js",
   "author": "",
   "license": "ISC"
